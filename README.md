@@ -7,7 +7,7 @@
 - 🤖 I’m currently working on [ZeroTwo](https://discord.com/oauth2/authorize?client_id=752067809214857298&permissions=1543892087&scope=bot&applications.commands)
 - 📝 I’m currently learning Python.
 - 💬 Ask me about everything DiscordJS related. *I'll answer everything*
-- 📫 How to reach me: Discord: Connor.#0800 and or via [Twitter.](https://twitter.com/ConnorDev_)
+- 📫 How to reach me: Discord: Connor!#0800 and or via [Twitter.](https://twitter.com/ConnorDev_)
 
 # Discord Profile
 
